@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import './index.css';
 
 const initialItems = [
   { id: 1, description: 'Passports', quantity: 2, packed: false },
