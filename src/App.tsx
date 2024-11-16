@@ -122,7 +122,6 @@ function PackingList({
         </select>
         <button>Clear List</button>
       </div>
-      `q`
     </div>
   );
 }
